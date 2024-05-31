@@ -1,6 +1,6 @@
 Posted May 31th 2024                                     Discord: fyQratkbAq
 -----------------------------------------------------------------------------------------------
-We'll be hanging out with @PhiaBunny on 5/31/2024, 6PM EDT at twitch.tv/phiabunny, Come watch!
+We are live with @PhiaBunny on Twitch! twitch.tv/phiabunny - Come watch!
 -----------------------------------------------------------------------------------------------
 v0.3.1b
 - May 2024
