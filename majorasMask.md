@@ -1,6 +1,6 @@
 Posted May 31th 2024                                     Discord: fyQratkbAq
 -----------------------------------------------------------------------------------------------
-We are live with @PhiaBunny on Twitch! twitch.tv/phiabunny - Come watch!
+Various fixes and other updates
 -----------------------------------------------------------------------------------------------
 v0.3.1b
 - May 2024
