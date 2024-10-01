@@ -1,13 +1,17 @@
-Posted May 31th 2024                                     Discord: fyQratkbAq
+Posted October 1st 2024                                  Discord: fyQratkbAq
 -----------------------------------------------------------------------------------------------
-Various fixes and other updates
+Halloween Update & various fixes
 -----------------------------------------------------------------------------------------------
-v0.3.1b
-- May 2024
+v0.3.2
+- October 2024
 -----------------------------------------------------------------------------------------------
-* Fixed various options in the popup menu
-* Fixed Training Room materials
-* Fixed Teleport Hookshot option
-* Added final day screen shake
-* More easter eggs!
-* Various other small fixes
+* Added Halloween Event
+* Added Dialogue System (WIP)
+* Added Localization - Partial Japanese support (WIP)
+* Disabled Screenshake on Mobile/Quest (Grey Screen Issue)
+* Fixed profile player name being 'Display Name'
+* Updated options menu with Pages for each option category
+* Added Performance options - PostFX Toggles
+* Improved Area loading performance - Less long distance frame drops
+* Improved torch lighting performance
+* Several internal fixes and changes for future updates
