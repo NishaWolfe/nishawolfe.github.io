@@ -1,7 +1,7 @@
-Updated December 11th 2024
+Updated January 5th 2025
 <color="purple">Discord: fyQratkbAq</color>
 ------------------------------------------------------------------------------------------
-<color=#00A1FF>Ocarina Update</color>
+<color=#A1EA5A>Persistence Update 1</color>
 v0.3.3a - January 5th 2025
 ------------------------------------------------------------------------------------------
 * Added Persistence for Settings
