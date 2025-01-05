@@ -5,6 +5,7 @@ Updated January 5th 2025
 v0.3.3a - January 5th 2025
 ------------------------------------------------------------------------------------------
 * Added Persistence for Settings
+* Restored old Time set slider
 
 ------------------------------------------------------------------------------------------
 <color=#00A1FF>Ocarina Update</color>
