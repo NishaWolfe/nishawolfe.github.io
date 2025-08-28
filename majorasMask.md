@@ -1,5 +1,13 @@
-Updated January 5th 2025
+Updated August 28th 2025
 <color="purple">Discord: fyQratkbAq</color>
+------------------------------------------------------------------------------------------
+<color=#A1EA5A>Bug Fixes</color>
+v0.3.3b - August 28th 2025
+* Fixed VR Wrist Menu distance - Should now appear below your hand
+* VR Wrist Menu now scales with your avatar size
+* Fixed VR Wrist Menu not being interactable
+* Fixed downloaded images appearing in strange places
+
 ------------------------------------------------------------------------------------------
 <color=#A1EA5A>Persistence Update 1</color>
 v0.3.3a - January 5th 2025
