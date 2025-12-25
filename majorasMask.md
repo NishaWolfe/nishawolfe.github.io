@@ -4,7 +4,7 @@ Updated December 25th 2025
 <color=#A1EA5A>Deku Flower & View Distance</color>
 v0.3.3c - December 25th 2025
 ------------------------------------------------------------------------------------------
-* Fixed Deku Flowers breaking with Auto Leap
+* Fixed Deku Flowers breaking with Auto Ledge Jumping
 * Added View Distance slider
 
 ------------------------------------------------------------------------------------------
