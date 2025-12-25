@@ -1,8 +1,16 @@
-Updated August 28th 2025
+Updated December 25th 2025
 <color="purple">Discord: fyQratkbAq</color>
+------------------------------------------------------------------------------------------
+<color=#A1EA5A>Deku Flower & View Distance</color>
+v0.3.3c - December 25th 2025
+------------------------------------------------------------------------------------------
+* Fixed Deku Flowers breaking with Auto Leap
+* Added View Distance slider
+
 ------------------------------------------------------------------------------------------
 <color=#A1EA5A>Bug Fixes</color>
 v0.3.3b - August 28th 2025
+------------------------------------------------------------------------------------------
 * Fixed VR Wrist Menu distance - Should now appear below your hand
 * VR Wrist Menu now scales with your avatar size
 * Fixed VR Wrist Menu not being interactable
